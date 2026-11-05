@@ -10,5 +10,6 @@
 - **新增插件**：按 `docs/onboarding.md` 的前提和步骤来：仓库公开、发布分支已由 CI 写好之后，开 PR，只改 `marketplace.json`，不要自己合并。
 - **README、`docs/onboarding.md` 和本文件由市场维护者统一维护**：维护者合并插件 PR 时同步更新 README 的插件表；插件开发方不改这些文件。
 - **本仓库是公开的**：只写对使用者和插件接入有用的内容。内部决策、会话编号、私有仓库和商业安排都不写进文件或提交信息。提交信息末尾只写 `Co-Authored-By`，不写 `Claude-Session` 行；PR 描述也不写会话链接（2026-11-05 起，已有提交不改写）。
+- **维护者的工作方法和发布经验**见 `docs/maintainer-guide.md`，合并接入 PR 前按其中第二节逐项检查。
 - **提交前运行**：`python3 scripts/check_marketplace.py --remote` 和 `claude plugin validate .`。CI 会跑同样的检查；`--remote` 确认每个仓库公开、发布分支存在。
 - 开发流程沿用 Tealun Dev PDCA 的惯例：规划用 planner，改动用 tasker，失败用 bugfixer，发布前用 auditor，收尾用 evolver。
