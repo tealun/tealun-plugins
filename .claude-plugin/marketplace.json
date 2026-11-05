@@ -32,6 +32,32 @@
         "repo": "tealun/tealun-dev-pdca",
         "ref": "plugin"
       }
+    },
+    {
+      "name": "design-to-dev",
+      "displayName": "Design to Dev",
+      "description": "For designers: screenshots, Figma links, brand guides or a text idea become a clickable prototype (plain HTML/CSS/JS, fake data, key states, bundled fonts), design tokens (CSS + W3C JSON) and HANDOFF.md, with every item marked Fixed, Indicative or TBD, and a visual direction locked before styling.",
+      "author": {
+        "name": "Tealun",
+        "url": "https://github.com/tealun"
+      },
+      "homepage": "https://github.com/tealun/design-to-dev",
+      "repository": "https://github.com/tealun/design-to-dev",
+      "license": "MIT",
+      "keywords": [
+        "design",
+        "prototype",
+        "design-tokens",
+        "handoff",
+        "figma",
+        "designer"
+      ],
+      "category": "design",
+      "source": {
+        "source": "github",
+        "repo": "tealun/design-to-dev",
+        "ref": "plugin"
+      }
     }
   ]
 }
