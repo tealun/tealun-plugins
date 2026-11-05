@@ -34,6 +34,32 @@
       }
     },
     {
+      "name": "gamesmith",
+      "displayName": "Gamesmith",
+      "description": "A staged workflow for building casual mini games (WeChat, Douyin and similar platforms): compliance first, feel prototype, engine-free core with config tables, level pipeline with a chunk solver and generator, code-drawn atlases, platform build, playtest loop, launch checklist and post-launch iteration. Ships runnable skeletons for the validator, solver and preview.",
+      "author": {
+        "name": "Tealun",
+        "url": "https://github.com/tealun"
+      },
+      "homepage": "https://github.com/tealun/gamesmith",
+      "repository": "https://github.com/tealun/gamesmith",
+      "license": "MIT",
+      "keywords": [
+        "game-development",
+        "mini-game",
+        "wechat-mini-game",
+        "level-design",
+        "game-feel",
+        "launch-checklist"
+      ],
+      "category": "game-development",
+      "source": {
+        "source": "github",
+        "repo": "tealun/gamesmith",
+        "ref": "plugin"
+      }
+    },
+    {
       "name": "design-to-dev",
       "displayName": "Design to Dev",
       "description": "For designers: screenshots, Figma links, brand guides or a text idea become a clickable prototype (plain HTML/CSS/JS, fake data, key states, bundled fonts), design tokens (CSS + W3C JSON) and HANDOFF.md, with every item marked Fixed, Indicative or TBD, and a visual direction locked before styling.",

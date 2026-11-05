@@ -20,6 +20,7 @@
 | 插件 | 安装 | 说明 | 仓库 |
 | --- | --- | --- | --- |
 | Tealun Dev PDCA | `/plugin install dev-pdca@tealun` | 按 PDCA 组织 AI 辅助开发的六个技能：planner、tasker、bugfixer、auditor、evolver、explainer | [tealun/tealun-dev-pdca](https://github.com/tealun/tealun-dev-pdca) |
+| Gamesmith | `/plugin install gamesmith@tealun` | 休闲小游戏（微信、抖音等小游戏平台）的分阶段开发流程：合规先行、手感原型、配置表驱动的核心、关卡求解与生成、代码绘制图集、平台构建、试玩迭代和上线清单，附可运行的校验器、求解器和预览骨架 | [tealun/gamesmith](https://github.com/tealun/gamesmith) |
 
 ---
 
@@ -39,4 +40,5 @@ Update with `/plugin marketplace update tealun`, or turn on auto-update for this
 | Plugin | Install | Repository |
 | --- | --- | --- |
 | Tealun Dev PDCA | `/plugin install dev-pdca@tealun` | [tealun/tealun-dev-pdca](https://github.com/tealun/tealun-dev-pdca) |
+| Gamesmith | `/plugin install gamesmith@tealun` | [tealun/gamesmith](https://github.com/tealun/gamesmith) |
 
