@@ -21,6 +21,7 @@
 | --- | --- | --- | --- |
 | Tealun Dev PDCA | `/plugin install dev-pdca@tealun` | 按 PDCA 组织 AI 辅助开发的六个技能：planner、tasker、bugfixer、auditor、evolver、explainer | [tealun/tealun-dev-pdca](https://github.com/tealun/tealun-dev-pdca) |
 | Gamesmith | `/plugin install gamesmith@tealun` | 休闲小游戏（微信、抖音等小游戏平台）的分阶段开发流程：合规先行、手感原型、配置表驱动的核心、关卡求解与生成、代码绘制图集、平台构建、试玩迭代和上线清单，附可运行的校验器、求解器和预览骨架 | [tealun/gamesmith](https://github.com/tealun/gamesmith) |
+| Design to Dev | `/plugin install design-to-dev@tealun` | 给设计师用：把截图、Figma 链接、品牌规范或一句想法，变成可点击的原型（纯 HTML/CSS/JS、假数据、关键状态、内置字体）、设计令牌（CSS 与 W3C JSON）和 HANDOFF.md，每一项标明确定、示意或待定 | [tealun/design-to-dev](https://github.com/tealun/design-to-dev) |
 
 ---
 
@@ -41,4 +42,5 @@ Update with `/plugin marketplace update tealun`, or turn on auto-update for this
 | --- | --- | --- |
 | Tealun Dev PDCA | `/plugin install dev-pdca@tealun` | [tealun/tealun-dev-pdca](https://github.com/tealun/tealun-dev-pdca) |
 | Gamesmith | `/plugin install gamesmith@tealun` | [tealun/gamesmith](https://github.com/tealun/gamesmith) |
+| Design to Dev | `/plugin install design-to-dev@tealun` | [tealun/design-to-dev](https://github.com/tealun/design-to-dev) |
 
