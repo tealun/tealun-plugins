@@ -2,7 +2,7 @@
 
 [English](#english)
 
-这是 Tealun 的 Claude Code 插件市场 `tealun`。这里只放一份插件清单，每个插件的源码和发布都在它自己的仓库里。
+这是 Tealun 的 Claude Code 插件市场 `tealun`。这里只放一份插件清单，每个插件的源码和发布都在它自己的仓库里；市场只收录已经发布的版本（各插件仓库的发布分支）。
 
 ## 安装
 
@@ -25,7 +25,7 @@
 
 ## English
 
-This is Tealun's Claude Code plugin marketplace, `tealun`. It holds only the plugin list; each plugin's source and releases live in its own repository.
+This is Tealun's Claude Code plugin marketplace, `tealun`. It holds only the plugin list; each plugin's source and releases live in its own repository, and the marketplace serves only released versions (each plugin's release branch).
 
 Install in Claude Code:
 

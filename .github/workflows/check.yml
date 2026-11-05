@@ -16,6 +16,6 @@ jobs:
         with:
           node-version: "22"
       - name: repository rules
-        run: python3 scripts/check_marketplace.py
+        run: python3 scripts/check_marketplace.py --remote
       - name: marketplace schema
         run: npx -y @anthropic-ai/claude-code@2.1.318 plugin validate .
