@@ -21,16 +21,6 @@
 | --- | --- | --- | --- |
 | Tealun Dev PDCA | `/plugin install dev-pdca@tealun` | 按 PDCA 组织 AI 辅助开发的六个技能：planner、tasker、bugfixer、auditor、evolver、explainer | [tealun/tealun-dev-pdca](https://github.com/tealun/tealun-dev-pdca) |
 
-## 从旧市场迁移
-
-如果你之前用 `/plugin marketplace add tealun/tealun-dev-pdca` 添加过 `tealun` 市场，先移除旧的再添加新的：
-
-```text
-/plugin marketplace remove tealun
-/plugin marketplace add tealun/tealun-plugins
-/plugin install dev-pdca@tealun
-```
-
 ---
 
 ## English
@@ -50,4 +40,3 @@ Update with `/plugin marketplace update tealun`, or turn on auto-update for this
 | --- | --- | --- |
 | Tealun Dev PDCA | `/plugin install dev-pdca@tealun` | [tealun/tealun-dev-pdca](https://github.com/tealun/tealun-dev-pdca) |
 
-If you added the `tealun` marketplace from `tealun/tealun-dev-pdca` before, remove it with `/plugin marketplace remove tealun`, add `tealun/tealun-plugins`, then install again.
