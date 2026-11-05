@@ -20,6 +20,7 @@
 | 插件 | 安装 | 说明 | 仓库 |
 | --- | --- | --- | --- |
 | Tealun Dev PDCA | `/plugin install dev-pdca@tealun` | 按 PDCA 组织 AI 辅助开发的六个技能：planner、tasker、bugfixer、auditor、evolver、explainer | [tealun/tealun-dev-pdca](https://github.com/tealun/tealun-dev-pdca) |
+| Design to Dev | `/plugin install design-to-dev@tealun` | 给设计师用：把设计稿或产品想法做成能跑的可交互原型，附 design tokens 和交接文档 HANDOFF.md | [tealun/design-to-dev](https://github.com/tealun/design-to-dev) |
 
 ---
 
@@ -39,4 +40,5 @@ Update with `/plugin marketplace update tealun`, or turn on auto-update for this
 | Plugin | Install | Repository |
 | --- | --- | --- |
 | Tealun Dev PDCA | `/plugin install dev-pdca@tealun` | [tealun/tealun-dev-pdca](https://github.com/tealun/tealun-dev-pdca) |
+| Design to Dev | `/plugin install design-to-dev@tealun` | [tealun/design-to-dev](https://github.com/tealun/design-to-dev) |
 
