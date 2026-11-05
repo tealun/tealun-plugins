@@ -1,0 +1,37 @@
+{
+  "name": "tealun",
+  "description": "Claude plugins by Tealun.",
+  "owner": {
+    "name": "Tealun",
+    "url": "https://github.com/tealun"
+  },
+  "plugins": [
+    {
+      "name": "dev-pdca",
+      "displayName": "Tealun Dev PDCA",
+      "description": "Five skills forming a PDCA loop: planner (plan before code), tasker (checkable changes with evidence), bugfixer (reproduce, prove the cause, fix, guard), auditor (evidence-backed audits), evolver (turn verified lessons into guards and ledger records); plus explainer (read-only, plain-language explanations of the codebase with file paths).",
+      "author": {
+        "name": "Tealun",
+        "url": "https://github.com/tealun"
+      },
+      "homepage": "https://github.com/tealun/tealun-dev-pdca",
+      "repository": "https://github.com/tealun/tealun-dev-pdca",
+      "license": "MIT",
+      "keywords": [
+        "pdca",
+        "planning",
+        "task-execution",
+        "debugging",
+        "audit",
+        "retrospective",
+        "code-explanation"
+      ],
+      "category": "development-workflow",
+      "source": {
+        "source": "github",
+        "repo": "tealun/tealun-dev-pdca",
+        "ref": "plugin"
+      }
+    }
+  ]
+}

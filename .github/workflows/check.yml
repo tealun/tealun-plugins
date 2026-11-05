@@ -1,0 +1,21 @@
+name: check
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: repository rules
+        run: python3 scripts/check_marketplace.py
+      - name: marketplace schema
+        run: npx -y @anthropic-ai/claude-code@2.1.318 plugin validate .
