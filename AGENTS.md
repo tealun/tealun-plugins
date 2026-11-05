@@ -1,4 +1,4 @@
-# claude-plugins 仓库的 Agent 指令
+# tealun-plugins 仓库的 Agent 指令
 
 本仓库只放 Tealun 插件市场 `tealun` 的清单 `.claude-plugin/marketplace.json`，不放任何插件源码。
 

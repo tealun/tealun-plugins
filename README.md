@@ -9,7 +9,7 @@
 在 Claude Code 里运行：
 
 ```text
-/plugin marketplace add tealun/claude-plugins
+/plugin marketplace add tealun/tealun-plugins
 /plugin install <插件名>@tealun
 ```
 
@@ -27,7 +27,7 @@
 
 ```text
 /plugin marketplace remove tealun
-/plugin marketplace add tealun/claude-plugins
+/plugin marketplace add tealun/tealun-plugins
 /plugin install dev-pdca@tealun
 ```
 
@@ -40,7 +40,7 @@ This is Tealun's Claude Code plugin marketplace, `tealun`. It holds only the plu
 Install in Claude Code:
 
 ```text
-/plugin marketplace add tealun/claude-plugins
+/plugin marketplace add tealun/tealun-plugins
 /plugin install <plugin>@tealun
 ```
 
@@ -50,4 +50,4 @@ Update with `/plugin marketplace update tealun`, or turn on auto-update for this
 | --- | --- | --- |
 | Tealun Dev PDCA | `/plugin install dev-pdca@tealun` | [tealun/tealun-dev-pdca](https://github.com/tealun/tealun-dev-pdca) |
 
-If you added the `tealun` marketplace from `tealun/tealun-dev-pdca` before, remove it with `/plugin marketplace remove tealun`, add `tealun/claude-plugins`, then install again.
+If you added the `tealun` marketplace from `tealun/tealun-dev-pdca` before, remove it with `/plugin marketplace remove tealun`, add `tealun/tealun-plugins`, then install again.
